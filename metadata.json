@@ -1,0 +1,6 @@
+{
+  "name": "FixMyArea",
+  "description": "A civic issue reporting platform allowing users to report issues via voice and location.",
+  "requestFramePermissions": ["geolocation", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
